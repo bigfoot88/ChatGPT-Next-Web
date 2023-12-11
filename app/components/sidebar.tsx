@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           ChatMind
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          东胜给排水集团 AI助手.
+          东胜给排水集团 人工智能中心 v1.0
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
